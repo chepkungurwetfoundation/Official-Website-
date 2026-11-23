@@ -29,12 +29,35 @@ Whether through donations, volunteering or partnerships, you can help us create 
 [Contact our team](/contact/) or [support our mission](/donate/).
 
 
-## Meet our team
+## Meet Our Team
 
 Our leadership team works with community members and partners to deliver programmes and strengthen local participation.
 
 <div class="team-grid">
-  <figure><img src="/team/director.jpg" alt="Freshia Langat, Founder and Executive Director" loading="lazy"><figcaption><strong>Freshia Langat</strong><span>Founder &amp; Executive Director</span></figcaption></figure>
-  <figure><img src="/team/vera.jpg" alt="Vera Atieno, Secretary" loading="lazy"><figcaption><strong>Vera Atieno</strong><span>Secretary</span></figcaption></figure>
-  <figure><img src="/team/peter.jpg" alt="Peter Dunga, Programs Director" loading="lazy"><figcaption><strong>Peter Dunga</strong><span>Programs Director</span></figcaption></figure>
+
+  <figure>
+    <img src="{{ "team/director.jpg" | relURL }}" alt="Freshia Langat, Founder and Executive Director" loading="lazy">
+    <figcaption>
+      <strong>Freshia Langat</strong>
+      <span>Founder &amp; Executive Director</span>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <img src="{{ "team/vera.jpg" | relURL }}" alt="Vera Atieno, Secretary" loading="lazy">
+    <figcaption>
+      <strong>Vera Atieno</strong>
+      <span>Secretary</span>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <img src="{{ "team/peter.jpg" | relURL }}" alt="Peter Dunga, Programs Director" loading="lazy">
+    <figcaption>
+      <strong>Peter Dunga</strong>
+      <span>Programs Director</span>
+    </figcaption>
+  </figure>
+
 </div>
+
