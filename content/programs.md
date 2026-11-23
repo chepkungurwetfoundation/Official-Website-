@@ -24,9 +24,9 @@ We believe every child deserves guidance, encouragement and an opportunity to re
 
 Education opens doors to opportunity and a better future. We support vulnerable children and young people by promoting access to education and helping them overcome barriers that may prevent them from completing their studies.
 
-{{< img src="school.jpg" alt="School education and learning activities" >}}
+{{< img src="school.jpg" alt="School education activities" >}}
 
-{{< img src="program/students_in_field.jpg" alt="Students participating in educational activities" >}}
+{{< img src="students_in_field.jpg" alt="Students participating in educational activities" >}}
 
 <a id="economic"></a>
 
