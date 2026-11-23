@@ -1,0 +1,4 @@
+{{ define "main" }}
+<section class="page-hero"><div class="container"><p class="eyebrow">CHEPKUNGURWET FOUNDATION</p><h1>{{ .Title }}</h1>{{ with .Description }}<p>{{ . }}</p>{{ end }}</div></section>
+<article class="container article-content {{ .File.ContentBaseName }}">{{ .Content }}</article>
+{{ end }}
