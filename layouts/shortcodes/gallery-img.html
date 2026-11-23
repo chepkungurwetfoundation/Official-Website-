@@ -1,0 +1,13 @@
+
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "Chepkungurwet Foundation activity" -}}
+{{- $caption := .Get "caption" | default $alt -}}
+
+<figure class="gallery-card">
+  <img
+    src="{{ $src | relURL }}"
+    alt="{{ $alt }}"
+    loading="lazy"
+  >
+  <figcaption>{{ $caption }}</figcaption>
+</figure>
