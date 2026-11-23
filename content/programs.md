@@ -14,9 +14,9 @@ We believe every child deserves guidance, encouragement and an opportunity to re
 
 {{< img src="program/mentorship.jpg" alt="School mentorship activities" >}}
 
-{{< img src="team/mentor.jpg" alt="Mentor supporting young people" >}}
+{{< img src="mentor.jpg" alt="Mentor supporting young people" >}}
 
-{{< img src="team/mentor2.jpg" alt="Mentorship and guidance activities" >}}
+{{< img src="mentor2.jpg" alt="Mentorship and guidance activities" >}}
 
 <a id="education"></a>
 
