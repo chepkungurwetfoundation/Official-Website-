@@ -1,107 +1,93 @@
 
 ---
 title: "Our Gallery"
-description: "A visual journey through the work, people and impact of Chepkungurwet Foundation."
+description: "Explore photographs capturing the programmes, activities and community impact of Chepkungurwet Foundation."
 ---
 
 # Our Gallery
 
-Every photograph tells a story of hope, opportunity, resilience and community transformation. Explore moments from our programmes, activities, team and partnerships.
-
-<a id="programmes"></a>
+A collection of moments that tell the story of our work, our communities and the positive change we are creating together.
 
 ## Programme Activities
 
-A look at the initiatives and activities through which we support individuals, families and communities.
+Photographs from our four programme areas, showing our work in education, mentorship, economic empowerment and housing.
 
-{{< img src="program/empowerment.jpg" alt="Economic empowerment activities" >}}
+{{< gallery-grid >}}
 
-{{< img src="program/empowerment2.jpg" alt="Community empowerment activities" >}}
+{{< gallery-img src="program/mentorship.jpg" alt="School mentorship activities" caption="School mentorship" >}}
 
-{{< img src="program/distribution.jpg" alt="Community distribution activities" >}}
+{{< gallery-img src="program/students_in_field.jpg" alt="Students participating in educational activities" caption="Education activities" >}}
 
-{{< img src="program/distribution2.jpg" alt="Community distribution programme" >}}
+{{< gallery-img src="program/empowerment.jpg" alt="Economic empowerment activities" caption="Economic empowerment" >}}
 
-{{< img src="program/mentorship.jpg" alt="School mentorship activities" >}}
+{{< gallery-img src="program/empowerment2.jpg" alt="Community empowerment activities" caption="Skills and empowerment" >}}
 
-{{< img src="program/students_in_field.jpg" alt="Students participating in educational activities" >}}
+{{< gallery-img src="program/distribution.jpg" alt="Community distribution activity" caption="Community distribution" >}}
 
-{{< img src="program/menstrual_health.jpg" alt="Menstrual health awareness programme" >}}
+{{< gallery-img src="program/distribution2.jpg" alt="Community support distribution" caption="Community support" >}}
 
-{{< img src="program/pads.jpg" alt="Menstrual products distribution" >}}
+{{< gallery-img src="program/menstrual_health.jpg" alt="Menstrual health awareness" caption="Menstrual health awareness" >}}
 
-{{< img src="program/housing.jpg" alt="Housing improvement activities" >}}
+{{< gallery-img src="program/pads.jpg" alt="Menstrual products distribution" caption="Menstrual health support" >}}
 
-{{< img src="program/hut.jpg" alt="Housing and shelter initiative" >}}
+{{< gallery-img src="program/housing.jpg" alt="Housing improvement activity" caption="Housing improvement" >}}
 
-<a id="community"></a>
+{{< gallery-img src="program/hut.jpg" alt="Housing and shelter initiative" caption="Decent housing" >}}
+
+{{< /gallery-grid >}}
 
 ## Community Activities and Events
 
-Moments capturing community engagement, outreach, events and the people whose lives are touched by our work.
+Moments from community gatherings, outreach activities, events and the people who make our work possible.
 
-{{< img src="banner.jpg" alt="Chepkungurwet Foundation community activities" >}}
+{{< gallery-grid >}}
 
-{{< img src="banner0.jpg" alt="Foundation community event" >}}
+{{< gallery-img src="banner.jpg" alt="Foundation community activities" caption="Community activities" >}}
 
-{{< img src="church.jpg" alt="Community church activity" >}}
+{{< gallery-img src="banner0.jpg" alt="Foundation community event" caption="Community event" >}}
 
-{{< img src="congrigation.jpg" alt="Community gathering" >}}
+{{< gallery-img src="church.jpg" alt="Community church activity" caption="Community engagement" >}}
 
-{{< img src="congrigation2.jpg" alt="Community gathering and engagement" >}}
+{{< gallery-img src="congrigation.jpg" alt="Community gathering" caption="Community gathering" >}}
 
-{{< img src="gals.jpg" alt="Community members participating in activities" >}}
+{{< gallery-img src="congrigation2.jpg" alt="Community gathering and engagement" caption="Community engagement" >}}
 
-{{< img src="healing_girls.jpg" alt="Girls participating in a community programme" >}}
+{{< gallery-img src="gals.jpg" alt="Community members participating in activities" caption="Community participation" >}}
 
-{{< img src="menstrual_health.jpg" alt="Menstrual health community activities" >}}
+{{< gallery-img src="healing_girls.jpg" alt="Girls participating in a community programme" caption="Girls' programmes" >}}
 
-{{< img src="housing.jpg" alt="Community housing initiative" >}}
+{{< gallery-img src="school.jpg" alt="School and education activities" caption="School activities" >}}
 
-{{< img src="mentorship.jpg" alt="Mentorship and community development" >}}
+{{< gallery-img src="students_in_field.jpg" alt="Students participating in activities" caption="Students in the community" >}}
 
-{{< img src="school.jpg" alt="School and education activities" >}}
+{{< gallery-img src="mentorship.jpg" alt="Mentorship activities" caption="Mentorship activities" >}}
 
-{{< img src="students_in_field.jpg" alt="Students participating in activities" >}}
+{{< gallery-img src="housing.jpg" alt="Community housing initiative" caption="Housing initiative" >}}
 
-{{< img src="team.jpg" alt="Foundation team and community activities" >}}
+{{< gallery-img src="menstrual_health.jpg" alt="Menstrual health community activities" caption="Community health" >}}
 
-{{< img src="package.jpg" alt="Community support package" >}}
+{{< gallery-img src="team.jpg" alt="Foundation and community activity" caption="Foundation activities" >}}
 
-{{< img src="packages.jpg" alt="Community support packages" >}}
+{{< gallery-img src="package.jpg" alt="Community support package" caption="Community support" >}}
 
-{{< img src="rollup.jpg" alt="Foundation outreach and awareness activities" >}}
+{{< gallery-img src="packages.jpg" alt="Community support packages" caption="Distribution of supplies" >}}
 
-{{< img src="default.jpg" alt="Community programme photograph" >}}
+{{< gallery-img src="rollup.jpg" alt="Foundation outreach and awareness activities" caption="Foundation outreach" >}}
 
-<a id="team"></a>
+{{< gallery-img src="default.jpg" alt="Community programme photograph" caption="Community programme" >}}
 
-## Our Team
+{{< gallery-img src="mentor.jpg" alt="Mentorship activity" caption="Mentorship programme" >}}
 
-Meet some of the people involved in leading and supporting the Foundation's work.
+{{< gallery-img src="mentor2.jpg" alt="Mentorship activity" caption="Mentorship and guidance" >}}
 
-{{< img src="team/director.jpg" alt="Foundation director" >}}
+{{< gallery-img src="og-image.jpg" alt="Chepkungurwet Foundation photograph" caption="Chepkungurwet Foundation" >}}
 
-{{< img src="team/peter.jpg" alt="Foundation team member Peter" >}}
+{{< gallery-img src="congrigation.jpg" alt="Community gathering" caption="Community gathering" >}}
 
-{{< img src="team/vera.jpg" alt="Foundation team member Vera" >}}
-
-{{< img src="mentor.jpg" alt="Mentorship team activity" >}}
-
-{{< img src="mentor2.jpg" alt="Mentorship team activity" >}}
-
-<a id="partners"></a>
-
-## Our Partners
-
-We value the organisations and partners who support our mission and community initiatives.
-
-{{< img src="partners/girls_up.png" alt="Girls Up partner" >}}
-
-{{< img src="partners/kenya_works.png" alt="Kenya Works partner" >}}
+{{< /gallery-grid >}}
 
 ## Be Part of Our Story
 
 Every contribution, partnership and act of support helps us create lasting change.
 
-[Contact us]({{< relref "contact.md" >}}) to explore opportunities to work together, or [support our mission]({{< relref "donate.md" >}}).
+[Contact us]({{< relref "contact.md" >}}) or [support our mission]({{< relref "donate.md" >}}).
