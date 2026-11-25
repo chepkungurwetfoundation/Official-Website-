@@ -86,8 +86,9 @@ Moments from community gatherings, outreach activities, events and the people wh
 
 {{< /gallery-grid >}}
 
+
 ## Be Part of Our Story
 
 Every contribution, partnership and act of support helps us create lasting change.
 
-[Contact us]({{< relref "contact.md" >}}) or [support our mission]({{< relref "donate.md" >}}).
+[Contact our team]({{% relref "/contact" %}}) or [support our mission]({{% relref "/donate" %}}).
