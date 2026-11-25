@@ -1,0 +1,75 @@
+
+<div class="team-grid">
+  {{ $members := slice
+    (dict "name" "Freshia Langat" "role" "Founder & Executive Director" "image" "team/director.jpg" "alt" "Freshia Langat")
+    (dict "name" "Vera Atieno" "role" "Secretary" "image" "team/vera.jpg" "alt" "Vera Atieno")
+    (dict "name" "Peter Dunga" "role" "Programs Director" "image" "team/peter.jpg" "alt" "Peter Dunga")
+  }}
+
+  {{ range $members }}
+    <figure class="team-card">
+      <img src="{{ .image | relURL }}" alt="{{ .alt }}" loading="lazy">
+      <figcaption>
+        <h3>{{ .name }}</h3>
+        <p>{{ .role }}</p>
+      </figcaption>
+    </figure>
+  {{ end }}
+</div>
+
+<style>
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 25px;
+  margin: 30px 0;
+}
+
+.team-card {
+  margin: 0;
+  overflow: hidden;
+  border-radius: 12px;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  text-align: center;
+}
+
+.team-card img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  display: block;
+}
+
+.team-card figcaption {
+  padding: 18px 12px;
+}
+
+.team-card h3 {
+  color: #1a3c40;
+  margin: 0 0 6px;
+  font-size: 19px;
+}
+
+.team-card p {
+  color: #64748b;
+  margin: 0;
+  font-size: 14px;
+}
+
+@media (max-width: 768px) {
+  .team-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 480px) {
+  .team-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .team-card img {
+    height: 320px;
+  }
+}
+</style>
