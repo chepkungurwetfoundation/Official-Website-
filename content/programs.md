@@ -8,7 +8,7 @@ Chepkungurwet Foundation works alongside communities to create opportunities, st
 
 <a id="mentorship"></a>
 
-## 01 — School Mentorship
+## School Mentorship
 
 We believe every child deserves guidance, encouragement and an opportunity to realise their full potential. Through school mentorship, we support learners with guidance, positive role models, life skills and personal development opportunities.
 
@@ -20,7 +20,7 @@ We believe every child deserves guidance, encouragement and an opportunity to re
 
 <a id="education"></a>
 
-## 02 — Education Sponsorship
+## Education Sponsorship
 
 Education opens doors to opportunity and a better future. We support vulnerable children and young people by promoting access to education and helping them overcome barriers that may prevent them from completing their studies.
 
@@ -30,7 +30,7 @@ Education opens doors to opportunity and a better future. We support vulnerable 
 
 <a id="economic"></a>
 
-## 03 — Economic Empowerment and Skills Development
+## Economic Empowerment and Skills Development
 
 We empower women, young people and families through income-generating opportunities, practical skills development and community-based initiatives. Our goal is to strengthen livelihoods, encourage financial independence and build resilient households.
 
@@ -42,7 +42,7 @@ We empower women, young people and families through income-generating opportunit
 
 <a id="housing"></a>
 
-## 04 — Decent Housing and Sanitation
+## Decent Housing and Sanitation
 
 Safe housing and proper sanitation are essential for dignity, health and wellbeing. We work to improve living conditions for vulnerable households through housing support, better shelter and initiatives that promote healthier communities.
 
